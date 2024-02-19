@@ -1,0 +1,20 @@
+.hs_content {
+    display: flow-root;
+}
+
+.hide-content.active {
+  display: inline-block;
+}
+.buttn-holder a {
+    padding: 5px;
+    background-color: #c90000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.buttn-holder {
+    float: right;
+}
+
+
+
